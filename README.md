@@ -16,11 +16,11 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/realrArnold/WritingPrompt-frontend.git   
+   git clone https://github.com/VanessaBizzell/WritingAppFrontEnd.git   
    
 2. **Navigate to the project repository**:
    ```bash
-   cd WritingPrompt-frontend
+   cd WritingAppFrontEnd
    
 3. **Install dependencies**:
    ```bash
